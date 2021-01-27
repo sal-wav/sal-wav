@@ -1,8 +1,9 @@
-### Hi!
+### Hi! Here's my [portfolio site.](https://sal-wav.github.io/)
 
 
 
 🌱 _I'm interested in how software development intersects with community._ 🌱
+
 
 
 **Ask me about:**
